@@ -45,4 +45,5 @@ The goal is to deliver an immersive UI experience inspired by next-gen gaming in
 ## 👤 Author
 
 **Utkarsh Kashid**
+
 If you like this project, feel free to ⭐ the repository and share your feedback.
