@@ -36,8 +36,10 @@ The goal is to deliver an immersive UI experience inspired by next-gen gaming in
 ---
 
 ## 🖼️ Preview
-
+### 🔹 Section 1:
 ![Section 1](screenshots/Section-1.png)
+
+### 🔹 Section 2:
 ![Section 2](screenshots/Section-2.png)
 
 ---
